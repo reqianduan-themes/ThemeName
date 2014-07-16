@@ -8,4 +8,20 @@
  * © 2014 themes.xiguabaobao.com. All rights reserved.
  */
 
-body{background-color:#fff}.header{background-color:#3ba4e1}.content{background-color:#fff}.footer{color:#999;background-color:#2b2b2b}.navbar-transparent{background-color:transparent;border:0}.navbar-transparent .navbar-brand{color:#fff}.navbar-transparent .navbar-nav .active>a,.navbar-transparent .navbar-nav .open>a,.navbar-transparent .navbar-nav>li>a{color:#fff;background-color:transparent}.navbar-transparent .navbar-nav .active>a:focus,.navbar-transparent .navbar-nav .active>a:hover,.navbar-transparent .navbar-nav .open>a:focus,.navbar-transparent .navbar-nav .open>a:hover,.navbar-transparent .navbar-nav>li>a:focus,.navbar-transparent .navbar-nav>li>a:hover{background-color:#1f8bca}.navbar-transparent .navbar-toggle{border-color:#fff}.navbar-transparent .navbar-toggle:hover{background-color:#1f8bca}.navbar-transparent .navbar-toggle .icon-bar{background-color:#fff}
+body
+{
+    background-color: #fff;
+}
+.header
+{
+    background-color: #3ba4e1;
+}
+.content
+{
+    background-color: #fff;
+}
+.footer
+{
+    color: #999;
+    background-color: #2b2b2b;
+}
